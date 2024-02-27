@@ -6,7 +6,7 @@
 
 	<groupId>fc9e3283-a489-4e88-99aa-cceea4aa5ea1</groupId>
 	<artifactId>rtf-tls-test</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
 	<name>rtf-tls-test</name>
